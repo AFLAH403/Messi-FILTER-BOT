@@ -246,7 +246,7 @@ Loki S01 or Loki S01E04 or Lucifer S03E24</pre>
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>
-<a href='https://t.me/+VrAQ-cJ8v9FkZTk1'>𝗝𝗢𝗜𝗡 𝗡𝗢𝗪 ❤️ | 𝗝𝗢𝗜𝗡 𝗡𝗢𝗪 ❤️</a>""" 
+<a href=''></a>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
