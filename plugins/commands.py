@@ -68,7 +68,7 @@ async def start(client, message):
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('ᴄʀᴇᴀᴛᴇ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')])
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAMaZ7OE6rdbpeLR0zE-GAqzyW9UfQoAAgUEAAIPW-BUJuhZMRElXQceBA") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAEKVax1CWGs1Ri6ti45xli LiUeweCnu4AACBAADWSQxMYn1HW4Ls8gQMAQ") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -92,7 +92,6 @@ async def start(client, message):
         try:
             btn = [
     [InlineKeyboardButton("ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ", url=invite_link.invite_link)],
-    [InlineKeyboardButton("How get files ?", url="https://t.me/MM_MOVIESS/96")]
 ]
             if message.command[1] != "subscribe":
                 if REQUEST_TO_JOIN_MODE == True:
