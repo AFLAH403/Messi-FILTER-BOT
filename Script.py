@@ -245,13 +245,12 @@ Loki S01 or Loki S01E04 or Lucifer S03E24</pre>
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗ 
-➲ <a href=https://t.me/CINEMA_COMPANYE_Backup> @CINEMA_COMPANY </a>
-➲ <a
-href=https://t.me/TBM_Bot_Updates> 
+╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ══════╗ 
+➲ <a href=https://t.me/CINEMA_COMPANYE_Backup> @CINEMA_COMPANYE_Backup </a>
+➲ <a href=https://t.me/TBM_Bot_Updates> 
 @TBM_Bot_Updates </a>
-➲ <a href=https://t.me/ThatyssBot>@Latest_Movies </a>
-╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝</b>""" 
+➲ <a href=https://t.me/ThatyssBot>Latest_Movies_Bot </a>
+╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ══════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
