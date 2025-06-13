@@ -246,7 +246,7 @@ Loki S01 or Loki S01E04 or Lucifer S03E24</pre>
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
 ╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗ 
-➲ <a href=https://t.me/MrTechMovies_Group> @CINEMA_COMPANY </a>
+➲ <a href=https://t.me/CINEMA_COMPANYE_Backup> @CINEMA_COMPANY </a>
 ➲ <a href=https://t.me/TBM_Bot_Updates> @TBM_Bot_Updates </a>
 ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>"""
 
