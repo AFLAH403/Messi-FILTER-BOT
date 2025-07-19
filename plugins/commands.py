@@ -460,7 +460,7 @@ async def start(client, message):
                 reply_markup=reply_markup
             )
             filesarr.append(msg)
-           await client.send_message(chat_id, "Your message")
+           k = await client.send_message(chat_id, "File sent successfully.")  # Example message
     
         return     elif data.startswith("files"):
         user = message.from_user.id
